@@ -1,1 +1,3 @@
 We are rocking devop training class
+
+new line added
